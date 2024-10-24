@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Define parameters
-a = 0.8  # You can change this value to see the effect of different 'a'
+a = 0.9  # You can change this value to see the effect of different 'a'
 n = np.arange(-10, 20, 1)  # Range of n
 
 # Define h[n] = a^n * u[n+2], where u[n+2] is 1 for n >= -2
