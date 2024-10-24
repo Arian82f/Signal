@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Define parameters
-a = 0.8  # You can change the value of 'a' to see the effect
+a = 0.9  # You can change the value of 'a' to see the effect
 n = np.arange(-10, 20, 1)  # Range of n
 
 # Define h[n] = (-a)^n * u[n], where u[n] is 1 for n >= 0
